@@ -1,0 +1,12 @@
+[
+ {"slug":"claude-code","name":"Claude Code","vendor":"Anthropic","kind":"agent"},
+ {"slug":"openai-codex","name":"Codex","vendor":"OpenAI","kind":"agent"},
+ {"slug":"github-copilot-agent","name":"Copilot coding agent","vendor":"GitHub","kind":"agent"},
+ {"slug":"cursor-agent","name":"Cursor Agent","vendor":"Anysphere","kind":"agent"},
+ {"slug":"gemini-cli","name":"Gemini CLI","vendor":"Google","kind":"agent"},
+ {"slug":"aider","name":"Aider","vendor":"Open source","kind":"agent"},
+ {"slug":"claude-api","name":"Claude (API)","vendor":"Anthropic","kind":"model"},
+ {"slug":"gpt-api","name":"GPT (API)","vendor":"OpenAI","kind":"model"},
+ {"slug":"gemini-api","name":"Gemini (API)","vendor":"Google","kind":"model"},
+ {"slug":"open-weights-coder","name":"Open-weights coder (via OpenRouter)","vendor":"Various","kind":"model"}
+]
